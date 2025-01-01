@@ -45,3 +45,11 @@
 
 You can simulate the project using the [Wokwi online simulator](https://wokwi.com/projects/418904447056750593). This allows you to test the code and see the behavior of the LEDs and buzzer without physical hardware.
 
+## Integration
+<div style="display: flex;">
+  <img src="https://github.com/loraille/2-Buzzers/blob/main/buzzer%20(5).jpg" alt="page1" width="150">
+  <img src="https://github.com/loraille/2-Buzzers/blob/main/buzzer%20(1).jpg" alt="page2" width="150">
+  <img src="https://github.com/loraille/2-Buzzers/blob/main/buzzer%20(4).jpg" alt="page3" width="150">
+<img src="https://github.com/loraille/2-Buzzers/blob/main/buzzer%20(3).jpg" alt="page3" width="150">
+<img src="https://github.com/loraille/2-Buzzers/blob/main/buzzer%20(2).jpg" alt="page3" width="150">
+</div>
